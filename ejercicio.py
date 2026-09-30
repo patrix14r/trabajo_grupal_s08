@@ -62,3 +62,5 @@ if __name__ == "__main__":
     pila.desapilar()
 
     pila.mostrar_platos()
+
+    # HolaMundo("print")
